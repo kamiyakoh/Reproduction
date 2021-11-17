@@ -55,7 +55,7 @@ header {
 
 .p-header-text {
     color: #000;
-    font-weight: 1000 !important;
+    font-weight: 1000;
     font-size: 0.9rem;
     white-space: nowrap;
     margin-left: 16px;
@@ -279,7 +279,7 @@ ul {
 }
 
 .p-tophead {
-    background-image: url(/images/bg-hero3.png);
+    background-image: url(../images/bg-hero3.png);
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
@@ -296,7 +296,7 @@ ul {
 }
 
 .p-tophead__layler {
-    background-image: url(/images/bg-hero1.png), url(/images/bg-hero2.png), ;
+    background-image: url(../images/bg-hero1.png), url(../images/bg-hero2.png), ;
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
